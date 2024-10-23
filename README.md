@@ -23,10 +23,10 @@ Hello! I am a recently certified **Software Quality Analyst**, deeply passionate
 ## 🛠️ Tools:
 
 
--**IDE and Automation:** PyCharm, Selenium
--**Project Management and Design:** Jira, Figma
--**Databases and APIs:** SQL, Postman
--**Other Tools:** AVS, Command Line
+- **IDE and Automation:** PyCharm, Selenium
+- **Project Management and Design:** Jira, Figma
+- **Databases and APIs:** SQL, Postman
+- **Other Tools:** AVS, Command Line
 
 ---
 
@@ -34,6 +34,7 @@ Hello! I am a recently certified **Software Quality Analyst**, deeply passionate
 ## 🛠️ Languages and Technologies:
 
 - **Programming Languages:** Python, MySQL
+  
 - **Additional Tools:** Postman, Figma, Jira, JSON, Selenium, PyCharm, AVS, Draw.io, Microsoft Office, Miro, Excel
 
   

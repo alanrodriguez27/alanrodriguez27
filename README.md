@@ -20,7 +20,7 @@ Hello! I am a recently certified **Software Quality Analyst**, deeply passionate
 
 ---
 
-##🛠️ Tools:
+## 🛠️ Tools:
 
 
 -**IDE and Automation:** PyCharm, Selenium

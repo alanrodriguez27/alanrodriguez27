@@ -17,10 +17,6 @@ Hello! I am a recently certified **Software Quality Analyst**, deeply passionate
 -**Test Automation:** Fundamentals of automation using Python and Selenium.
 
 
-## 
-
-
-
 
 ---
 

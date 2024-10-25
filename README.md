@@ -37,6 +37,35 @@ Hello! I am a recently certified **Software Quality Analyst**, deeply passionate
   
 - **Additional Tools:** Postman, Figma, Jira, JSON, Selenium, PyCharm, AVS, Draw.io, Microsoft Office, Miro, Excel
 
+---
+
+
+## 🛠️ Projects:
+
+- **Urban Scooter - TRIPLETEN:**
+  
+- In this project, I conducted testing on a set of integrated applications called Urban Scooter, which is an online scooter rental platform. This includes a web application for users renting the scooters and a mobile application for users responsible for delivering them. This has been the most comprehensive project I have worked on as a QA Tester, as we not only tested the various modules of the Urban Scooter application but also performed requirements analysis and designed the necessary tests to ensure that the requested requirements were met.
+
+- [Link to Urban Scooter Project](https://docs.google.com/spreadsheets/d/1RVXq1HoTFQ5cxOpsZ9GzDu-mZIXm8GM6/edit?usp=sharing&ouid=102921829761936497222&rtpof=true&sd=true)
+
+
+- **Urban Grocers - TRIPLETEN:**
+  
+- In this project, I conducted automated testing using the Pytest module for creating a new account and a kit. Within the code, we found both negative and positive tests, with a total of 9 tests.
+Among the technologies I used were Python as the programming language, and for the testing, we worked with Pytest (Pytest is a framework that allows for unit testing of software in Python).
+
+- [Link to Urban Grocers Project](https://github.com/alanrodriguez27/qa-project-Urban-Grocers-app-es)
+
+
+- **Urban Routes - TRIPLETEN:**
+  
+- In this project, I conducted automated testing using Selenium and Python with the goal of testing user functions in Urban Routes. Within the code, we found eight tests. The server links and test data are located in the data.py file, the functions are in urban_routes.py, and finally, the tests are in the main.py file.
+Among the technologies used was Python as the programming language, and for testing, Pytest was utilized (Pytest is a framework that allows for unit testing of software in Python). The tests were conducted using the Page Object Model (POM) method, with the help of locators for each element to be used in the tests. Additionally, __init__ was used for the construction of the UrbanRoutes class and its attribute functions.
+
+- [Link to Urban Routes Project](https://github.com/alanrodriguez27/qa-project-Urban-Routes-es )
+
+  
+ 
   
 ---
 
